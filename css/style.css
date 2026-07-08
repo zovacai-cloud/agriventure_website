@@ -280,8 +280,8 @@ ul {
 }
 
 .logo-icon {
-    width: 42px;
-    height: 42px;
+    width: 95px;
+    height: 60px;
     background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
     border-radius: 10px;
     display: flex;
